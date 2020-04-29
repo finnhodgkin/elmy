@@ -1,11 +1,5 @@
 module Main exposing (..)
 
--- Make a GET request to load a book called "Public Opinion"
---
--- Read how it works:
---   https://guide.elm-lang.org/effects/http.html
---
-
 import Browser
 import FirstPage.Model as FirstPageModel
 import FirstPage.Update as FirstPageUpdate
